@@ -1,0 +1,23 @@
+{
+  "target_phrase": "bitgenisis_reconstruction_ultimatum_mem_core",
+  "rotation_lock_block": "000000000000000000000000000000000000000000000000",
+  "genesis_byte": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+  "phase_rule": "brake---order-0",
+  "haxi_order_net": "find_byte",
+  "lock_matrix": {
+    "enforce_phrase_to_indice": true,
+    "dexhash_directional": true,
+    "block_override_enabled": true,
+    "cons_hash_gas_set_0": "partition_order_partionBlockheader"
+  },
+  "senders": {
+    "0": { "role": "primary_chain", "self_loop": true },
+    "1": { "role": "override_chain", "self_loop": true }
+  },
+  "omega_category": "force_retention",
+  "world_net_range_file": "addresses/world_net_range.txt",
+  "hash_hosts_file": "addresses/hash_hosts.md",
+  "consensus_required": true,
+  "auto_apply_after_init": true,
+  "pipeline_credentials_file": "config/pipeline_credentials.json"
+}

@@ -1,0 +1,38 @@
+{
+  "hosts": {
+    "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa": {
+      "external_path": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega",
+      "node": "e65486fb2619111fb38eb9f9caf65bc09ed221c6dea9c3c47cceb3bba043c15c",
+      "locked_at": 1780704081.858482,
+      "omega": true
+    },
+    "000000000000000000000000000000000000000000000000": {
+      "external_path": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega",
+      "node": "e65486fb2619111fb38eb9f9caf65bc09ed221c6dea9c3c47cceb3bba043c15c",
+      "locked_at": 1780704080.1284876,
+      "omega": true
+    },
+    "btc:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa": {
+      "external_path": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega",
+      "node": "e65486fb2619111fb38eb9f9caf65bc09ed221c6dea9c3c47cceb3bba043c15c",
+      "locked_at": 1780704129.632106,
+      "omega": true
+    }
+  },
+  "zones": {
+    "0.0.0.0/0:world_net_gateway": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega",
+    "10.0.0.0/8:internal_mem_path": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\traffic",
+    "172.16.0.0/12:internal_mem_path": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\traffic",
+    "192.168.0.0/16:internal_mem_path": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\traffic",
+    "127.0.0.1/32:self_loop_sender": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\traffic",
+    "::1/128:self_loop_sender": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\traffic",
+    "fe80::/10:link_local_netcache": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega",
+    "2001:db8::/32:world_net_example": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega",
+    "0.0.0.0/8:world_net_base": "N:\\BITGENISIS_RECONSTRUCTION_ULTIMATUM_MEM_CORE\\data\\netcache\\omega"
+  },
+  "frozen": true,
+  "block_override": {
+    "partition_header": "partition_order_partionBlockheader",
+    "cons_hash_gas_set_0": "partition_order_partionBlockheader"
+  }
+}

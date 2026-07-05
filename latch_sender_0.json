@@ -1,0 +1,7 @@
+{
+  "phase": "brake---order-0",
+  "genesis_byte": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+  "sender": 0,
+  "haxi_order": "find_byte",
+  "self_loop": true
+}
