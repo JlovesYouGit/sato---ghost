@@ -1,0 +1,35 @@
+{
+  "dashboard": "bitgenisis_x_correlation",
+  "panels": [
+    {
+      "title": "Root Hash",
+      "type": "stat",
+      "targets": [
+        {
+          "shape": "X",
+          "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+          "node_count": 59,
+          "edge_count": 115
+        },
+        {
+          "shape": "X",
+          "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+          "node_count": 59,
+          "edge_count": 115
+        },
+        {
+          "shape": "X",
+          "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+          "node_count": 59,
+          "edge_count": 115
+        },
+        {
+          "shape": "X",
+          "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+          "node_count": 59,
+          "edge_count": 115
+        }
+      ]
+    }
+  ]
+}

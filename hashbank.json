@@ -1,0 +1,955 @@
+{
+  "entries": {
+    "x_graph": {
+      "value": {
+        "shape": "X",
+        "nodes": [
+          {
+            "id": "n_0",
+            "hex": "31",
+            "bit": "00110001"
+          },
+          {
+            "id": "n_1",
+            "hex": "41",
+            "bit": "01000001"
+          },
+          {
+            "id": "n_2",
+            "hex": "31",
+            "bit": "00110001"
+          },
+          {
+            "id": "n_3",
+            "hex": "7a",
+            "bit": "01111010"
+          },
+          {
+            "id": "n_4",
+            "hex": "50",
+            "bit": "01010000"
+          },
+          {
+            "id": "n_5",
+            "hex": "31",
+            "bit": "00110001"
+          },
+          {
+            "id": "n_6",
+            "hex": "65",
+            "bit": "01100101"
+          },
+          {
+            "id": "n_7",
+            "hex": "50",
+            "bit": "01010000"
+          },
+          {
+            "id": "n_8",
+            "hex": "35",
+            "bit": "00110101"
+          },
+          {
+            "id": "n_9",
+            "hex": "51",
+            "bit": "01010001"
+          },
+          {
+            "id": "n_10",
+            "hex": "47",
+            "bit": "01000111"
+          },
+          {
+            "id": "n_11",
+            "hex": "65",
+            "bit": "01100101"
+          },
+          {
+            "id": "n_12",
+            "hex": "66",
+            "bit": "01100110"
+          },
+          {
+            "id": "n_13",
+            "hex": "69",
+            "bit": "01101001"
+          },
+          {
+            "id": "n_14",
+            "hex": "32",
+            "bit": "00110010"
+          },
+          {
+            "id": "n_15",
+            "hex": "44",
+            "bit": "01000100"
+          },
+          {
+            "id": "n_16",
+            "hex": "4d",
+            "bit": "01001101"
+          },
+          {
+            "id": "n_17",
+            "hex": "50",
+            "bit": "01010000"
+          },
+          {
+            "id": "n_18",
+            "hex": "54",
+            "bit": "01010100"
+          },
+          {
+            "id": "n_19",
+            "hex": "66",
+            "bit": "01100110"
+          },
+          {
+            "id": "n_20",
+            "hex": "54",
+            "bit": "01010100"
+          },
+          {
+            "id": "n_21",
+            "hex": "4c",
+            "bit": "01001100"
+          },
+          {
+            "id": "n_22",
+            "hex": "35",
+            "bit": "00110101"
+          },
+          {
+            "id": "n_23",
+            "hex": "53",
+            "bit": "01010011"
+          },
+          {
+            "id": "n_24",
+            "hex": "4c",
+            "bit": "01001100"
+          },
+          {
+            "id": "n_25",
+            "hex": "6d",
+            "bit": "01101101"
+          },
+          {
+            "id": "n_26",
+            "hex": "76",
+            "bit": "01110110"
+          },
+          {
+            "id": "n_27",
+            "hex": "37",
+            "bit": "00110111"
+          },
+          {
+            "id": "n_28",
+            "hex": "44",
+            "bit": "01000100"
+          },
+          {
+            "id": "n_29",
+            "hex": "69",
+            "bit": "01101001"
+          },
+          {
+            "id": "n_30",
+            "hex": "76",
+            "bit": "01110110"
+          },
+          {
+            "id": "n_31",
+            "hex": "66",
+            "bit": "01100110"
+          },
+          {
+            "id": "n_32",
+            "hex": "4e",
+            "bit": "01001110"
+          },
+          {
+            "id": "n_33",
+            "hex": "61",
+            "bit": "01100001"
+          },
+          {
+            "id": "n_34",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_35",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_36",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_37",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_38",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_39",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_40",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_41",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_42",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_43",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_44",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_45",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_46",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_47",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_48",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_49",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_50",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_51",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_52",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_53",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_54",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_55",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_56",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "n_57",
+            "hex": "30",
+            "bit": "00110000"
+          },
+          {
+            "id": "x_root",
+            "hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+            "variant": "X"
+          }
+        ],
+        "edges": [
+          {
+            "from": "n_0",
+            "to": "n_1",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_1",
+            "to": "n_2",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_2",
+            "to": "n_3",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_3",
+            "to": "n_4",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_4",
+            "to": "n_5",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_5",
+            "to": "n_6",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_6",
+            "to": "n_7",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_7",
+            "to": "n_8",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_8",
+            "to": "n_9",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_9",
+            "to": "n_10",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_10",
+            "to": "n_11",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_11",
+            "to": "n_12",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_12",
+            "to": "n_13",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_13",
+            "to": "n_14",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_14",
+            "to": "n_15",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_15",
+            "to": "n_16",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_16",
+            "to": "n_17",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_17",
+            "to": "n_18",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_18",
+            "to": "n_19",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_19",
+            "to": "n_20",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_20",
+            "to": "n_21",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_21",
+            "to": "n_22",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_22",
+            "to": "n_23",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_23",
+            "to": "n_24",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_24",
+            "to": "n_25",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_25",
+            "to": "n_26",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_26",
+            "to": "n_27",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_27",
+            "to": "n_28",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_28",
+            "to": "n_29",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_29",
+            "to": "n_30",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_30",
+            "to": "n_31",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_31",
+            "to": "n_32",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_32",
+            "to": "n_33",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_33",
+            "to": "n_34",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_34",
+            "to": "n_35",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_35",
+            "to": "n_36",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_36",
+            "to": "n_37",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_37",
+            "to": "n_38",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_38",
+            "to": "n_39",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_39",
+            "to": "n_40",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_40",
+            "to": "n_41",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_41",
+            "to": "n_42",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_42",
+            "to": "n_43",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_43",
+            "to": "n_44",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_44",
+            "to": "n_45",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_45",
+            "to": "n_46",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_46",
+            "to": "n_47",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_47",
+            "to": "n_48",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_48",
+            "to": "n_49",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_49",
+            "to": "n_50",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_50",
+            "to": "n_51",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_51",
+            "to": "n_52",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_52",
+            "to": "n_53",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_53",
+            "to": "n_54",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_54",
+            "to": "n_55",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_55",
+            "to": "n_56",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_56",
+            "to": "n_57",
+            "type": "byte_chain"
+          },
+          {
+            "from": "n_0",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_1",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_2",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_3",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_4",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_5",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_6",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_7",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_8",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_9",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_10",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_11",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_12",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_13",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_14",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_15",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_16",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_17",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_18",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_19",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_20",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_21",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_22",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_23",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_24",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_25",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_26",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_27",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_28",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_29",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_30",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_31",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_32",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_33",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_34",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_35",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_36",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_37",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_38",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_39",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_40",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_41",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_42",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_43",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_44",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_45",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_46",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_47",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_48",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_49",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_50",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_51",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_52",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_53",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_54",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_55",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_56",
+            "to": "x_root",
+            "type": "correlate"
+          },
+          {
+            "from": "n_57",
+            "to": "x_root",
+            "type": "correlate"
+          }
+        ],
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+      },
+      "meta": {},
+      "ts": 1780704130.4869661
+    },
+    "bitcoin_genesis": {
+      "value": {
+        "genesis_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+        "rpc": {
+          "configured": false,
+          "reachable": false
+        },
+        "api": {
+          "enabled": true,
+          "reachable": true
+        },
+        "address": {
+          "address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+          "balance_sat": 5720790749,
+          "balance_btc": 57.20790749,
+          "tx_count": 63001,
+          "funded_txo_count": 74810,
+          "spent_txo_count": 0,
+          "utxo_count": 74810,
+          "recent_txids": [
+            "541ba8bc1fb12a81fbff14e67e567cb659ac27e2f717efb3c8a5aad6fe6a4284",
+            "e2dff5e74b474753ed762df9b99637bba0baa0322da0313bea43313ce21e0755",
+            "6a96e6f960aeec78a9bb05fda2fb5922692be3742cdfd73e69cf42d210f233bd"
+          ],
+          "source": "api"
+        },
+        "sources_used": [
+          "api"
+        ]
+      },
+      "meta": {
+        "source": "pipeline_credentials"
+      },
+      "ts": 1780704128.3842857
+    }
+  },
+  "swap_chain": [
+    {
+      "metric_order": {
+        "order_index": 14,
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+      },
+      "ts": 1780703292.3333702,
+      "memuar_id": "swap_1780703292"
+    },
+    {
+      "metric_order": {
+        "order_index": 14,
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+      },
+      "ts": 1780703303.5426853,
+      "memuar_id": "swap_1780703303"
+    },
+    {
+      "metric_order": {
+        "order_index": 14,
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+      },
+      "ts": 1780703929.75579,
+      "memuar_id": "swap_1780703929"
+    },
+    {
+      "metric_order": {
+        "order_index": 14,
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+      },
+      "ts": 1780704130.6030235,
+      "memuar_id": "swap_1780704130"
+    }
+  ]
+}

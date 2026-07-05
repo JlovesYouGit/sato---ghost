@@ -1,0 +1,114 @@
+{
+  "metrics": [
+    {
+      "timestamp": 1780703292.5771005,
+      "grafana_correlation": {
+        "shape": "X",
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+        "node_count": 59,
+        "edge_count": 115
+      },
+      "decision_data": {
+        "action": "apply_const",
+        "indice_order": 14
+      },
+      "correlators": {
+        "latched_keys": [
+          "bitgenisis_reconstruction_ultimatum_mem_core"
+        ],
+        "rotation_block": {
+          "block": "000000000000000000000000000000000000000000000000",
+          "directional_hash": "f9a2ba511957122bfa67b029061c679703494540b35f02e0e0496a3b0cdcc46a",
+          "limit": "all"
+        }
+      }
+    },
+    {
+      "timestamp": 1780703303.7695358,
+      "grafana_correlation": {
+        "shape": "X",
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+        "node_count": 59,
+        "edge_count": 115
+      },
+      "decision_data": {
+        "action": "apply_const",
+        "indice_order": 14
+      },
+      "correlators": {
+        "latched_keys": [
+          "bitgenisis_reconstruction_ultimatum_mem_core"
+        ],
+        "rotation_block": {
+          "block": "000000000000000000000000000000000000000000000000",
+          "directional_hash": "f9a2ba511957122bfa67b029061c679703494540b35f02e0e0496a3b0cdcc46a",
+          "limit": "all"
+        }
+      }
+    },
+    {
+      "timestamp": 1780703930.0298333,
+      "grafana_correlation": {
+        "shape": "X",
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+        "node_count": 59,
+        "edge_count": 115
+      },
+      "decision_data": {
+        "action": "apply_const",
+        "indice_order": 14
+      },
+      "correlators": {
+        "latched_keys": [
+          "bitgenisis_reconstruction_ultimatum_mem_core"
+        ],
+        "rotation_block": {
+          "block": "000000000000000000000000000000000000000000000000",
+          "directional_hash": "f9a2ba511957122bfa67b029061c679703494540b35f02e0e0496a3b0cdcc46a",
+          "limit": "all"
+        }
+      }
+    },
+    {
+      "timestamp": 1780704130.8373005,
+      "grafana_correlation": {
+        "shape": "X",
+        "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6",
+        "node_count": 59,
+        "edge_count": 115
+      },
+      "decision_data": {
+        "action": "apply_const",
+        "indice_order": 14
+      },
+      "correlators": {
+        "latched_keys": [
+          "bitgenisis_reconstruction_ultimatum_mem_core"
+        ],
+        "rotation_block": {
+          "block": "000000000000000000000000000000000000000000000000",
+          "directional_hash": "f9a2ba511957122bfa67b029061c679703494540b35f02e0e0496a3b0cdcc46a",
+          "limit": "all"
+        }
+      }
+    }
+  ],
+  "correlators": [
+    {
+      "ts": 1780703292.5771005,
+      "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+    },
+    {
+      "ts": 1780703303.7695358,
+      "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+    },
+    {
+      "ts": 1780703930.0298333,
+      "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+    },
+    {
+      "ts": 1780704130.8373005,
+      "root_hash": "97afd484823d66fd6f2187417b42dcb4ed9e96d1295b321c364e9449d05989e6"
+    }
+  ]
+}
